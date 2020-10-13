@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### I'm Takara Ishimoto. I'm from Kumamoto in Japan.
 ### My hoby is taking pictures.
+### I'm studying application development.
 
 <!--
 **IshimotoTakara/IshimotoTakara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
