@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=IshimotoTakara&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=IshimotoTakara&row=2&column=3&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=IshimotoTakara&show_icons=true&count_private=true&theme=chartreuse-dark)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=IshimotoTakara&layout=compact&count_private=true&theme=chartreuse-dark)
