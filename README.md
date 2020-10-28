@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=IshimotoTakara)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=IshimotoTakara&count_private=true&theme=chartreuse-dark)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=IshimotoTakara&layout=compact&count_private=true&theme=chartreuse-dark)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=IshimotoTakara&count_private=true&theme=chartreuse-dark)
