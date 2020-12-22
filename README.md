@@ -2,7 +2,7 @@
 ### I'm Takara Ishimoto. I'm from Kumamoto in Japan.
 ### My hoby is taking pictures.
 ### I'm studying application development.
-### C, Python, Java, Ruby
+### C, Python, Java, Ruby, JavaScpipt
 
 ### Rails, Flutter, Nuxt.js
 
