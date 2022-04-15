@@ -4,7 +4,7 @@
 ### I'm studying application development.
 ### C, Python, Java, Ruby
 
-### Rails, Flutter, Nuxt.js
+### Rails, Nuxt.js
 
 <!--
 **IshimotoTakara/IshimotoTakara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
